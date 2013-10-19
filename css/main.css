@@ -1,7 +1,7 @@
 body {
-	background: #404040;
-	margin: 0px;
-	background-image: url("../img/IMG_7429_2.JPG");
+    background: #404040;
+    margin: 0px;
+    background-image: url("../img/IMG_7429_2.JPG");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -10,44 +10,44 @@ body {
 }
 
 #wrap {
-	width: 100%; 
+    width: 100%; 
 }
 
 #header {
-	width: 100%; /* 960px/960 */
+    width: 100%; /* 960px/960 */
 }
 
 #inner {
-	width: 100%; /* 960px/960 */
+    width: 100%; /* 960px/960 */
 }
 
 #left_block {
-	width: 66.666667%; /*640px/960 */
-	float: left;
+    width: 66.666667%; /*640px/960 */
+    float: left;
 }
 
 #right_block {
-	width: 31.25%; /*300px/960 */
-	float: right;
-	background-color: rgba(102, 102, 102, 0.8);
-	min-height: 100%;
-	
+    width: 31.25%; /*300px/960 */
+    float: right;
+    background-color: rgba(102, 102, 102, 0.8);
+    min-height: 100%;
+    
 }
 
 #textWrapper h1 {
-	margin: 10% 0 0 10%;
-	padding: 0;
-	font-family: 'Cabin Sketch', century gothic, URW gothic L, Helvetica, sans-serif;
-	font-weight: 400;
-	font-size: 60px;
-	color: #FFF;
+    margin: 10% 0 0 10%;
+    padding: 0;
+    font-family: 'Cabin Sketch', century gothic, URW gothic L, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    color: #FFF;
 }
 
 #textWrapper p {
-	margin: 0 0 0 20%;
-	padding: 0;
-	font-family: 'Cabin Sketch', century gothic, URW gothic L, Helvetica, sans-serif;
-	font-weight: 400;
-	font-size: 40px;
-	color: #FFF;
+    margin: 0 0 0 20%;
+    padding: 0;
+    font-family: 'Cabin Sketch', century gothic, URW gothic L, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    color: #FFF;
 }
